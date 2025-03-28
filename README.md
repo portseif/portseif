@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I’m Chris 👋
 
-<!--
-**portseif/portseif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast, accessible websites with Laravel, WordPress, and Statamic.  
+Frontend nerd at heart — Tailwind, GSAP, and Alpine are my go-to tools for smooth, interactive UI.  
+Design-minded, ADHD-fueled, and always optimizing something.
 
-Here are some ideas to get you started:
+## 🔧 Stack
+- PHP / Laravel / WordPress / Statamic
+- TailwindCSS / Alpine.js / GSAP
+- MySQL / Livewire / ACF / REST APIs
+- GitHub Actions / Herd / Vite / Accessibility-first
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I focus on
+- Component-based builds with clean markup
+- SEO-smart, scalable architecture
+- Reusable animations and micro-interactions
+- Streamlined developer experience with Prettier, linting, and organized codebases
+
+> Always debugging something that worked yesterday.
