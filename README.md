@@ -15,5 +15,3 @@ Design-minded, ADHD-fueled, and always optimizing something.
 - SEO-smart, scalable architecture
 - Reusable animations and micro-interactions
 - Streamlined developer experience with Prettier, linting, and organized codebases
-
-> Always debugging something that worked yesterday.
