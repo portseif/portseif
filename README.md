@@ -4,7 +4,8 @@ I've spent 27 years building fast, accessible websites and software, these days 
 Frontend nerd at heart — Tailwind, Motion, and Alpine are my go-to tools for smooth, interactive UI.  
 Design-minded, ADHD-fueled, and always optimizing something.  
 
-🌐 [portseif.github.io](https://portseif.github.io)  ·  💼 [Hire me on Upwork](https://www.upwork.com/fl/portseif)
+🌐 [portseif.github.io](https://portseif.github.io)  
+💼 [Hire me on Upwork](https://www.upwork.com/fl/portseif)
 
 ## 🔧 Stack
 ### Backend
